@@ -1,0 +1,7 @@
+F:\CodeGym\Game_co_ran\Snack_game\Snack_game\bin\Debug\Snack_game.exe.config
+F:\CodeGym\Game_co_ran\Snack_game\Snack_game\bin\Debug\Snack_game.exe
+F:\CodeGym\Game_co_ran\Snack_game\Snack_game\bin\Debug\Snack_game.pdb
+F:\CodeGym\Game_co_ran\Snack_game\Snack_game\obj\Debug\Snack_game.csproj.AssemblyReference.cache
+F:\CodeGym\Game_co_ran\Snack_game\Snack_game\obj\Debug\Snack_game.csproj.CoreCompileInputs.cache
+F:\CodeGym\Game_co_ran\Snack_game\Snack_game\obj\Debug\Snack_game.exe
+F:\CodeGym\Game_co_ran\Snack_game\Snack_game\obj\Debug\Snack_game.pdb
