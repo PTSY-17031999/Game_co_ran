@@ -216,6 +216,8 @@ namespace Snack_game
                                 case (5): Console.Write("5"); break;
                             }
 
+
+
                         }
 
                         else if (j == headX && i == headY) //đầu con rắn
