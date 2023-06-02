@@ -230,8 +230,8 @@ namespace Snack_game
                             }
                         }
                         //kiem tra va cham bien (le trai, phai)
-                        // || headX >= width - 1 ||
-                        //   headY <= 0 || headY >= height - 1) gameOver = true;
+                       else if( headX <= 0 || headX >= width - 1 ||
+                         headY <= 0 || headY >= height - 1) gameOver = true;
                         else
                         {
                             isprinted = false;
